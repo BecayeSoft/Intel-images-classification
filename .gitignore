@@ -47,6 +47,10 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
+<<<<<<< HEAD
+=======
+*.py,cover
+>>>>>>> origin/main
 .hypothesis/
 .pytest_cache/
 
@@ -90,8 +94,17 @@ ipython_config.py
 #   install all needed dependencies.
 #Pipfile.lock
 
+<<<<<<< HEAD
 # celery beat schedule file
 celerybeat-schedule
+=======
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+>>>>>>> origin/main
 
 # SageMath parsed files
 *.sage.py
