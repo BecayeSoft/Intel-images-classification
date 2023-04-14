@@ -3,6 +3,8 @@ import Data
 from CNN import CNN
 from EfficientNet import EfficientNet
 
+# TODO: https://colab.research.google.com/github/tensorflow/tensorboard/blob/master/docs/get_started.ipynb#scrollTo=MCsoUNb6YhGc
+
 # --------------------------
 # Load the data
 # --------------------------
